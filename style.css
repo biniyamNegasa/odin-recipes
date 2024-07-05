@@ -1,5 +1,9 @@
 body{
-  background: pink;
+  background: #D8EFD3;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.main {
+  text-align: center;
+  padding: 2px;
+}
